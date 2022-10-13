@@ -1,11 +1,11 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "Advanced Auto Filter Bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode.",
     "stack": "container",
     "keywords": [
       "telegram",
       "auto-filter",
-      "filter",
+      "manual-filter",
       "best",
       "sri-lanka",
       "pyrogram",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Hansaka-Anuhas/Auto-Filter-Bot",
-    "repository": "https://github.com/Hansaka-Anuhas/Auto-Filter-Bot",
+    "website": "https://github.com/Hansaka-Anuhas/Advanced-Auto-Filter-Bot",
+    "repository": "https://github.com/Hansaka-Anuhas/Advanced-Auto-Filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
